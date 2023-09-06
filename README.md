@@ -5,7 +5,7 @@ Welcome to my portfolio static website project! This repository contains the sou
 
 ## Introduction
 
-This project is a simple static website created to showcase my portfolio, projects, and skills. It is built using HTML, CSS, and JavaScript, making it lightweight and easy to host on various platforms.
+This project is a simple static website created to showcase my portfolio, projects, and skills. It is built using HTML And  CSS, making it lightweight and easy to host on various platforms.
 
 ## Features
 
@@ -18,7 +18,6 @@ This project is a simple static website created to showcase my portfolio, projec
 
 - HTML
 - CSS
-- JavaScript
 
 ## Setup
 
