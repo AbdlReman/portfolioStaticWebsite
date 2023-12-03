@@ -204,6 +204,12 @@ nav ul li a:hover{
     position: relative; 
     overflow: hidden;
     text-align: center;
+    transition: .4s;
+}
+.card:hover{
+
+    transform: scale(1.1);
+    
 }
 
 .card i{
